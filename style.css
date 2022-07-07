@@ -1,7 +1,7 @@
 html {
     box-sizing: border-box;
     font-size: 10px;
-    background: #ffc600;
+    background: #262626;
 }
 
 *,
@@ -21,6 +21,20 @@ h1 {
     font-size: 10em;
     line-height: 1;
     margin-bottom: 0;
+    color: #fff;
+}
+
+.start {
+    text-align: center;
+    font-size: 5em;
+    background-color: #fff;
+    margin-left: 110px;
+}
+
+.start:hover {
+    background-color: #262626;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
 }
 
 .score {
