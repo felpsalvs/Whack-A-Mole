@@ -7,7 +7,7 @@ Sobre este último projeto, a ideia foi criar um jogo em que gerasse aleatoriame
 
 O objetivo foi alcançado, mas a missão ainda não foi. Minha missão é ficar fluente em JavaScript, ainda sigo firme e forte na trilha do freeCodeCamp de Estruturas de Dados e Algoritmos e no livro da Loiane Groner que já compartilhei aqui.
 <br/>
-Veja aqui: 
+Veja aqui: https://felpsalvs.github.io/Whack-A-Mole/
 <br/>
 30/30 <br/>
 https://JavaScript30.com 
